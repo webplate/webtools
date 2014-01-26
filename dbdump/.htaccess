@@ -1,0 +1,8 @@
+AuthUserFile /homepages/28/d240018641/htdocs/dbdump/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Sauvegarde de la base de donnée"
+AuthType Basic
+<LIMIT GET POST>
+
+Require valid-user
+</LIMIT>

@@ -1,0 +1,5 @@
+#Forcer PHP5 chez 1and1
+AddType x-mapp-php5 .php
+
+#Permet d'utiliser l'adresse la plus simple (jgmulti.fr) pour accéder au site (http://jgmulti.fr/drupal/)
+Redirect permanent /index.html http://jgmulti.fr/drupal/

@@ -1,0 +1,12 @@
+Sitemap: http://gerenton.fr/sitemap.xml
+
+User-agent: *
+Disallow: /phpmv2/
+Disallow: /logs/
+Disallow: /vrac/
+Disallow: /marc-galerie/search.php
+Disallow: /marc-weblog/ecrire/
+Disallow: /marc-galerie/login.php
+Disallow: /marc-galerie/admin.php
+Disallow: /marc-newsletter/
+Disallow: /sauvegarde/
